@@ -1,0 +1,10 @@
+{
+  "name": "Remix TRANSITSHIELD – Smart \u0026 Accessible Public Transportation",
+  "description": "An intelligent, accessible public transportation system that calculates Journey Risk Scores, predicts crowding and arrival uncertainty, enforces step-free access, and features multilingual voice guidance with community reporting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
